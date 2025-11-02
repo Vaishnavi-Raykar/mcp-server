@@ -1,0 +1,23 @@
+Welcome to Ressl AI MCP Server
+This is a sample file for testing the file search functionality.
+
+The Ressl AI MCP server provides powerful search capabilities.
+You can search for any keyword within this file.
+
+Features of Ressl AI:
+- Fast keyword search
+- Line number tracking
+- Column position detection
+- Multiple match support
+
+The server is built using the Model Context Protocol.
+Ressl AI makes it easy to search through files efficiently.
+
+Test different keywords:
+- search
+- Ressl
+- file
+- MCP
+
+This sample file contains various occurrences of the keyword Ressl.
+The search tool will find all matches and return detailed results.
