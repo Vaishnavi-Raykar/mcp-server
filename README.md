@@ -2,6 +2,10 @@
 
 MCP server for file search functionality with support for both partial and exact word matching.
 
+<a href="https://glama.ai/mcp/servers/@Vaishnavi-Raykar/mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Vaishnavi-Raykar/mcp-server/badge" alt="Ressl AI Server MCP server" />
+</a>
+
 ## Features
 
 - **Partial Keyword Search**: Find all occurrences of a keyword including partial matches
